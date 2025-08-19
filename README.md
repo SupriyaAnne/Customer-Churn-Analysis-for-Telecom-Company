@@ -1,6 +1,8 @@
 # Customer-Churn-Analysis-for-Telecom-Company
 A comprehensive project on analyzing customer churn behavior in a telecom company using Python (Pandas, Seaborn, Matplotlib), SQL, Excel, and Power BI. This end-to-end solution includes data cleaning, exploratory analysis, SQL insights, dashboard development, and business recommendations to help reduce churn and improve customer retention.
 
+![Customer Churn Dashboard](Dashboard.png)
+
 # Project Overview
 **Goal:** Analyze customer churn trends, uncover key factors driving churn, and provide actionable insights and recommendations for business stakeholders.
 
